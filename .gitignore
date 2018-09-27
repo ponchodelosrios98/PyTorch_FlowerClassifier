@@ -1,0 +1,7 @@
+.DS_store
+flowers/*
+./flowers
+flowers/
+
+flower_classifier.pt
+./flower_classifier.pt
